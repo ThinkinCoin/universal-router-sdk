@@ -87,7 +87,7 @@ const CHAIN_CONFIGS: { [key: number]: ChainConfig } = {
     weth: '0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7',
     creationBlock: 31583684,
   },
-  // avalanche
+  // harmony
   [1666600000]: {
     router: '0xf0d3EffdcdF9062A3a49F27310e1e8a5629E036B',
     weth: '0xcF664087a5bB0237a0BAd6742852ec6c8d69A27a',
