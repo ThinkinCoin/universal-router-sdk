@@ -1,7 +1,7 @@
 import JSBI from 'jsbi'
 import { RoutePlanner, CommandType } from '../../utils/routerCommands'
-import { Trade as V2Trade, Pair } from '@uniswap/v2-sdk'
-import { Trade as V3Trade, Pool, encodeRouteToPath } from '@uniswap/v3-sdk'
+import { Trade as V2Trade, Pair } from '@thinkincoin-libs/uniswap-v2-sdk'
+import { Trade as V3Trade, Pool, encodeRouteToPath } from '@thinkincoin-libs/uniswap-v3-sdk'
 import {
   Trade as RouterTrade,
   MixedRouteTrade,
@@ -17,7 +17,7 @@ import {
   partitionMixedRouteByProtocol,
 } from '@uniswap/router-sdk'
 import { Permit2Permit } from '../../utils/inputTokens'
-import { Currency, TradeType, CurrencyAmount, Percent } from '@uniswap/sdk-core'
+import { Currency, TradeType, CurrencyAmount, Percent } from '@thinkincoin-libs/sdk-core'
 import { Command, RouterTradeType, TradeConfig } from '../Command'
 import { SENDER_AS_RECIPIENT, ROUTER_AS_RECIPIENT, CONTRACT_BALANCE } from '../../utils/constants'
 
