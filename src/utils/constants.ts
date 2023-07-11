@@ -88,7 +88,7 @@ const CHAIN_CONFIGS: { [key: number]: ChainConfig } = {
     creationBlock: 31583684,
   },
   // avalanche
-  [43114]: {
+  [1666600000]: {
     router: '0xf0d3EffdcdF9062A3a49F27310e1e8a5629E036B',
     weth: '0xcF664087a5bB0237a0BAd6742852ec6c8d69A27a',
     creationBlock: 44134893,
