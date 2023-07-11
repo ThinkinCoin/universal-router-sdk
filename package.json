@@ -50,7 +50,7 @@
   },
   "dependencies": {
     "@thinkincoin-libs/permit2-sdk": "^1.2.0",
-    "@uniswap/router-sdk": "^1.4.0",
+    "@thinkincoin/router-sdk": "^1.4.1",
     "@thinkincoin-libs/sdk-core": "^4.0.2",
     "@uniswap/universal-router": "1.4.3",
     "@thinkincoin-libs/uniswap-v2-sdk": "^3.0.8",
@@ -60,10 +60,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Uniswap/universal-router-sdk.git"
+    "url": "git+https://github.com/thinkincoin/universal-router-sdk.git"
   },
   "bugs": {
-    "url": "https://github.com/Uniswap/universal-router-sdk/issues"
+    "url": "https://github.com/thinkincoin/universal-router-sdk/issues"
   },
-  "homepage": "https://github.com/Uniswap/universal-router-sdk#readme"
+  "homepage": "https://github.com/thinkincoin/universal-router-sdk#readme"
 }
