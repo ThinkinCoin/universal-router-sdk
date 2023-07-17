@@ -10,7 +10,7 @@ import { Trade as V3Trade, Route as RouteV3, Pool } from '@thinkincoin-libs/unis
 import { generatePermitSignature, makePermit } from './utils/permit2'
 
 import { UniswapTrade } from '../src'
-import { CurrencyAmount, TradeType } from '@thinkincoin-libs/sdk-core'
+import { CurrencyAmount, TradeType } from '@thinkincoin/sdk-core'
 import { registerFixture } from './forge/writeInterop'
 import { buildTrade, getUniswapPools, swapOptions, DAI, ETHER, WETH, USDC } from './utils/uniswapData'
 import {

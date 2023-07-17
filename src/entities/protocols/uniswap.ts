@@ -17,7 +17,7 @@ import {
   partitionMixedRouteByProtocol,
 } from '@thinkincoin/router-sdk'
 import { Permit2Permit } from '../../utils/inputTokens'
-import { Currency, TradeType, CurrencyAmount, Percent } from '@thinkincoin-libs/sdk-core'
+import { Currency, TradeType, CurrencyAmount, Percent } from '@thinkincoin/sdk-core'
 import { Command, RouterTradeType, TradeConfig } from '../Command'
 import { SENDER_AS_RECIPIENT, ROUTER_AS_RECIPIENT, CONTRACT_BALANCE } from '../../utils/constants'
 

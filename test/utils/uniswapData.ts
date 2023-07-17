@@ -12,7 +12,7 @@ import {
   FeeAmount,
 } from '@thinkincoin-libs/uniswap-v3-sdk'
 import { SwapOptions } from '../../src'
-import { CurrencyAmount, TradeType, Ether, Token, Percent, Currency } from '@thinkincoin-libs/sdk-core'
+import { CurrencyAmount, TradeType, Ether, Token, Percent, Currency } from '@thinkincoin/sdk-core'
 import IUniswapV3Pool from '@uniswap/v3-core/artifacts/contracts/UniswapV3Pool.sol/UniswapV3Pool.json'
 import { TEST_RECIPIENT_ADDRESS } from './addresses'
 
