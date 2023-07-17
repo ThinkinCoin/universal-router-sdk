@@ -7,7 +7,7 @@ import {RouterParameters} from 'contracts/base/RouterImmutables.sol';
 contract DeployBSC is DeployUniversalRouter {
     function setUp() public override {
         params = RouterParameters({
-            permit2: 0xD4bb74a31eaF69342fDe8bEDEf5097208a6edc25,
+            permit2: 0x000000000022d473030f116ddee9f6b43ac78ba3,
             weth9: 0xcF664087a5bB0237a0BAd6742852ec6c8d69A27a,
             seaportV1_5: UNSUPPORTED_PROTOCOL,
             seaportV1_4: UNSUPPORTED_PROTOCOL,

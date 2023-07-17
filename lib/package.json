@@ -41,7 +41,7 @@
       "@typechain/ethers-v5": "^4.0.0",
       "@types/chai": "^4.2.6",
       "@types/mocha": "^5.2.7",
-      "@uniswap/router-sdk": "^1.4.1",
+      "@uniswap/router-sdk": "^1.6.0",
       "@thinkincoin/sdk-core": "^1.0.0",
       "@uniswap/snapshot-gas-cost": "^1.0.0",
       "@thinkincoin-libs/uniswap-v2-sdk": "^3.0.9",
