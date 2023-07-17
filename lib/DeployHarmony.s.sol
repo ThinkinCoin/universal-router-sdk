@@ -23,7 +23,7 @@ contract DeployBSC is DeployUniversalRouter {
             routerRewardsDistributor: UNSUPPORTED_PROTOCOL,
             looksRareRewardsDistributor: UNSUPPORTED_PROTOCOL,
             looksRareToken: UNSUPPORTED_PROTOCOL,
-            v2Factory: 0xe9b782912ee2e284f10fa4604478ce00cde365e7,
+            v2Factory: UNSUPPORTED_PROTOCOL,
             v3Factory: 0x4b45Be9169DE6e3eE3b7874bfd34D4B7600E0B54,
             pairInitCodeHash: BYTES32_ZERO,
             poolInitCodeHash: 0xe34f199b19b2b4f47f68442619d555527d244f78a3297ea89325f843f87b8b54
