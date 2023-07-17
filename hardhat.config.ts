@@ -5,9 +5,9 @@ export default {
   networks: {
     hardhat: {
       allowUnlimitedContractSize: false,
-      chainId: 1,
+      chainId: 166660000,
       forking: {
-        url: `${process.env.FORK_URL}`,
+        url: `https://api.harmony.one`, // `${process.env.FORK_URL}`
         blockNumber: 15360000,
       },
     },
