@@ -50,7 +50,7 @@
   },
   "dependencies": {
     "@thinkincoin-libs/permit2-sdk": "^1.2.0",
-    "@thinkincoin/router-sdk": "^1.4.1",
+    "@uniswap/router-sdk": "^1.6.0",
     "@thinkincoin/sdk-core": "^1.0.0",
     "@uniswap/universal-router": "1.4.3",
     "@thinkincoin-libs/uniswap-v2-sdk": "^3.0.8",
