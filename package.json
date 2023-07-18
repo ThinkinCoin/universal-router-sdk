@@ -1,6 +1,6 @@
 {
   "name": "@thinkincoin/universal-router-sdk",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "sdk for integrating with the Universal Router contracts",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -52,8 +52,8 @@
     "@thinkincoin-libs/permit2-sdk": "^1.2.0",
     "@thinkincoin-libs/uniswap-v2-sdk": "^3.1.0",
     "@thinkincoin-libs/uniswap-v3-sdk": "^3.10.0",
-    "@thinkincoin/sdk-core": "^1.1.0",
     "@thinkincoin/router-sdk": "^1.4.3",
+    "@thinkincoin/sdk-core": "^1.1.0",
     "@uniswap/universal-router": "1.4.3",
     "bignumber.js": "^9.0.2",
     "ethers": "^5.3.1"
