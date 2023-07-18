@@ -15,7 +15,7 @@ import {
   getOutputOfPools,
   encodeMixedRouteToPath,
   partitionMixedRouteByProtocol,
-} from '@uniswap/router-sdk'
+} from '@thinkincoin/router-sdk'
 import { Permit2Permit } from '../../utils/inputTokens'
 import { Currency, TradeType, CurrencyAmount, Percent } from '@thinkincoin/sdk-core'
 import { Command, RouterTradeType, TradeConfig } from '../Command'
