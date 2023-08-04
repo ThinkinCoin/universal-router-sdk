@@ -89,7 +89,7 @@ const CHAIN_CONFIGS: { [key: number]: ChainConfig } = {
   },
   // harmony
   [1666600000]: {
-    router: '0xb467eA76A5847E27a9809912AeD2E69E4612254E',
+    router: '0xC6eF4120Cc6C72AAe149BF227b0b557372451dca',
     weth: '0xcF664087a5bB0237a0BAd6742852ec6c8d69A27a',
     creationBlock: 44519400,
   },
